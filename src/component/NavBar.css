@@ -1,0 +1,6 @@
+#dropdown li a{
+    color: white;
+}
+#dropdown li a:hover{
+    background-color: grey;
+}
